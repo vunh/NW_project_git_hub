@@ -1,0 +1,6 @@
+README
+
+The code is organized into 3 subfolders
+- src_java: containing java source files which are used for extracting information from json files and result files returned by WProf, generating results.
+- lib: contaning JAR libraries for supporting parsing json files
+- src_python: files for crawling data. In this folder we only include the 2 modified source files which are originally from the TA. We modify them for our use. These two files should be put together with other python files by the TA to be executed.
